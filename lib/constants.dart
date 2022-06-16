@@ -1,0 +1,19 @@
+const String loggedInKey = 'LoggedIn';
+
+const String rootRouteName = 'root';
+const String cartRouteName = 'cart';
+const String createAccountRouteName = 'create_account';
+const String detailsRouteName = 'details';
+const String homeRouteName = 'home';
+const String loginRouteName = 'login';
+const String moreInfoRouteName = 'moreInfo';
+const String paymentRouteName = 'payment';
+const String personalRouteName = 'personal';
+const String profileMoreInfoRouteName = 'profile_moreInfo';
+const String profilePaymentRouteName = 'profile_payment';
+const String profilePersonalRouteName = 'profile_personal';
+const String profileRouteName = 'profile';
+const String profileSigninInfoRouteName = 'profile_signin';
+const String subDetailsRouteName = 'shop_details';
+const String shoppingRouteName = 'shop';
+const String signinInfoRouteName = 'signin';
